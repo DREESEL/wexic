@@ -1,0 +1,898 @@
+{ 
+    "galeriacontenidos": [
+        { 
+            "id": "1Q3oaJahyGRogDWgpo7PIw",
+            "alias": "Dual Sim 128 Gb 6 Gb Ram Azul Estrella 2201117TG",
+            "name": "Xiaomi Redmi Note 11",
+            "image_url": "https://i.linio.com/p/20ef24976c338abe0e8257bf4e7b6e5c-product.webp",
+            "is_closed": false,
+            "url": "//i.linio.com/p/20ef24976c338abe0e8257bf4e7b6e5c-product.jpg",
+            "review_count": 1654,
+            "categories": [
+                {
+                    "alias": "SoloArequipa",
+                    "title": "Arequipa (Nuevo)"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.72371830945,
+                "longitude": -73.95159863632
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "Lima, San Isidro",
+                "address2": "",
+                "address3": "",
+                "city": "NY 11222",
+                "zip_code": "11222",
+                "country": "PE",
+                "state": "L",
+                "display_address": [
+                    ", San Isidro",
+                    "Lima"
+                ]
+            },
+            "phone": "+17183835345",
+            "display_phone": "(718) 383-5345",
+            "distance": 1577.0193266544443
+        },
+        {
+            "id": "v1DHGRNCH9247WLYoaoA9A",
+            "alias": "La Mesa de Cocina Consola Persiana",
+            "name": "Mueble perfecto",
+            "image_url": "https://ovacen.com/wp-content/uploads/2018/06/mesa-persiana.jpg",
+            "is_closed": false,
+            "url": "https://todoensillasymesas.com/producto/mesa-de-cocina-consola-con-persiana/",
+            "review_count": 681,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.71162,
+                "longitude": -73.95783
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17185990002",
+            "display_phone": "(718) 599-0002",
+            "distance": 2848.262805053385
+        },
+        {
+            "id": "4yPqqJDJOQX69gC66YUDkA",
+            "alias": "Silla",
+            "name": "Mueble",
+            "image_url": "https://oechsle.vteximg.com.br/arquivos/ids/5516912-800-800/1332853_1.jpg?v=637703618342100000",
+            "is_closed": false,
+            "url": "https://www.oechsle.pe/muebles",
+            "review_count": 6248,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.709945,
+                "longitude": -73.962478
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183877400",
+            "display_phone": "(718) 387-7400",
+            "distance": 3247.8498335473146
+        },
+        {
+            "id": "qLLxS7RwNEjP_jq_KQrPfA",
+            "alias": "Multitop",
+            "name": "Muebles",
+            "image_url": "https://multitop.vteximg.com.br/arquivos/ids/162903/puffsmb.jpg?v=637563724255570000",
+            "is_closed": false,
+            "url": "https://www.multitop.pe/",
+            "review_count": 1940,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.710658,
+                "longitude": -73.958872
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+13478449578",
+            "display_phone": "(347) 844-9578",
+            "distance": 2981.2246332863797
+        },
+        {
+            "id": "pGr5QuQU7Ur5GHLvXbT8bw",
+            "alias": "Terrazas",
+            "name": "Madera",
+            "image_url": "https://www.falabella.com.pe/static/RDF/site/landing/minisitios/Terrazas/img/MADERA-750x700.png?v2",
+            "is_closed": false,
+            "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.falabella.com.pe%2Ffalabella-pe%2Fpage%2FTerrazas%3FstaticPageId%3D200003&psig=AOvVaw1gwXsRotri5lN6PV2Icq0O&ust=1653322888310000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCp0vjB8_cCFQAAAAAdAAAAABAW",
+            "review_count": 1309,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.729546,
+                "longitude": -73.958568
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+13479873747",
+            "display_phone": "(347) 987-3747",
+            "distance": 1968.8723972104656
+        },
+        {
+            "id": "hthvpEL7JEbfxfD6iP9axQ",
+            "alias": "Dispositivo multiplataforma multi-idioma",
+            "name": "Traductor de voz",
+            "image_url": "https://sc04.alicdn.com/kf/HTB13KjMHN9YBuNjy0Ffq6xIsVXaw.jpg_Q55.jpg",
+            "is_closed": false,
+            "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alibaba.com%2Fpla%2FTrending-products-professional-multi-language-portable_60781805109.html%3Fmark%3Dgoogle_shopping%26biz%3Dpla%26language%3Des%26pcy%3DUS%26searchText%3DElectronic%2BTranslator&psig=AOvVaw2NZVCwj8EzWVbI8n2qtoCq&ust=1653323117812000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiat-PC8_cCFQAAAAAdAAAAABAD",
+            "review_count": 917,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.71462413989243,
+                "longitude": -73.9497399
+            },
+            "transactions": [
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183842836",
+            "display_phone": "(718) 384-2836",
+            "distance": 2156.9372367191336
+        },
+        {
+            "id": "4KHjnRNvrkKHchEznhlnSA",
+            "alias": "dispositivos electronicos",
+            "name": "Bascula para cocina",
+            "image_url": "https://sc02.alicdn.com/kf/HTB16Qb6SMTqK1RjSZPhq6xfOFXaD/225478337/HTB16Qb6SMTqK1RjSZPhq6xfOFXaD.jpg_.webp",
+            "is_closed": false,
+            "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fspanish.alibaba.com%2Fproduct-detail%2FAlibaba-2021-Trending-Products-Jinhua-Yongkang-62093544398.html&psig=AOvVaw0i4jO-RxTMTlZ3Tg6s6r1h&ust=1653323397298000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjO8-nD8_cCFQAAAAAdAAAAABAJ",
+            "review_count": 2137,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.718371,
+                "longitude": -73.95733
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+13477254793",
+            "display_phone": "(347) 725-4793",
+            "distance": 2305.796349152376
+        },
+        {
+            "id": "jAaVnUKLITkuhzwXIe0vLQ",
+            "alias": "Xiaomi",
+            "name": "Redmi Note 10S",
+            "image_url": "https://i.linio.com/p/db9f91f994a263bc1b630647bf8aa255-catalog.webp",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/p/xiaomi-redmi-note-10s-8-128gb-dual-sim-blanco-m2101k7bg-rzwozb?qid=ad80dba8ac69b4d1fb84a90f501ae582&oid=XI061EL0HXOUILPE&position=2&sku=XI061EL0S3VK1LPE",
+            "review_count": 1271,
+            "categories": [
+                {
+                    "alias": "moroccan",
+                    "title": "Moroccan"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.719747,
+                "longitude": -73.959993
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17184869222",
+            "display_phone": "(718) 486-9222",
+            "distance": 2410.2563997607954
+        },
+        {
+            "id": "FhXjAc6nKLf414KxYujUHw",
+            "alias": "moda",
+            "name": "Targerine",
+            "image_url": "https://www.crapsforyou.com/wp-content/uploads/2021/10/222454154_349411013247916_359372888349174010_n-1024x1024.jpg",
+            "is_closed": false,
+            "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crapsforyou.com%2F2021%2F10%2F16%2Ftangerine-una-marca-de-modas-en-arequipa%2F&psig=AOvVaw2o4cr5belDfM_IlXpR8KJH&ust=1653323511372000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIiO6qLE8_cCFQAAAAAdAAAAABAj",
+            "review_count": 3083,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.70493,
+                "longitude": -73.93399
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17184171118",
+            "display_phone": "(718) 417-1118",
+            "distance": 2857.4314084976622
+        },
+        {
+            "id": "Hh9glEE_xDYT_pPUsRPXlA",
+            "alias": "Gamer",
+            "name": "Silla Gamer",
+            "image_url": "//i.linio.com/p/71c8f0058a57aa4589757d180575f847-product.webp",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/p/silla-gamer-ergono-mica-dreizt-shine-series-azul-con-posapies-lfegks?recId=l4SkdHlwZahIT01FUEFHRaRkYXRhkKhsb2NhdGlvbrlodHRwczovL3d3dy5saW5pby5jb20ucGUvqHJlZmVycmVyt2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20vzRNjzgACSvrCAblEUjQxN0VMMUVLMEpUTFBFLTU1ODA5NTQ2CQ%3D%3D*l7QtNTcxMTk4OTgxMzkyOTIyOTQ2Ns4AEpGFqDExMDg5NDkyAZCRzgGa3UGlNjg0NjE%3D&decisionId=l7QtNTcxMTk4OTgxMzkyOTIyOTQ2Ns4AEpGFqDExMDg5NDkyAZCRzgGa3UGlNjg0NjE%3D&variationId=26926401&variationName=H_R_4_G_P_Tech",
+            "review_count": 3544,
+            "categories": [
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.748216,
+                "longitude": -73.956973
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17186069851",
+            "display_phone": "(718) 606-9851",
+            "distance": 2680.408788291422
+        },
+        {
+            "id": "HodL0fXoF08C3Ir-kLeTtw",
+            "alias": "Samsung",
+            "name": "Galaxi S22",
+            "image_url": "https://dynamic-yield.linio.com//api/scripts/8767678/images/a31f2315e2fc__sis_ts_samsung-1.jpg",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/s/samsung-tienda-oficial?skus=SA026EL1MII7HLPE",
+            "review_count": 389,
+            "categories": [
+                {
+                    "alias": "pastashops",
+                    "title": "Pasta Shops"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72371,
+                "longitude": -73.95157
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183492009",
+            "display_phone": "(718) 349-2009",
+            "distance": 1568.4319090584354
+        },
+        {
+            "id": "AfZPx4piTmg9dqZpYgYTgg",
+            "alias": "Skullcandy",
+            "name": "Audifonos",
+            "image_url": "https://dynamic-yield.linio.com//api/scripts/8767678/images/289x388px_skullcandy.jpg",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/s/tienda-oficial-skullcandy-black-sheep?skus=SK297EL0JE2SELPE",
+            "review_count": 344,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7243431,
+                "longitude": -73.9484718
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183491216",
+            "display_phone": "(718) 349-1216",
+            "distance": 1314.6933980494691
+        },
+        {
+            "id": "gUJ6pHYd_fp2Ypq377P_vA",
+            "alias": "Ps4",
+            "name": "Juego Elden Ring Ps4",
+            "image_url": "https://i.linio.com/p/f3d755f8bb07dea74b56cd4535e4b209-product.webp",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/p/juego-elden-ring-ps4-jqopvt?recId=l4SkdHlwZahIT01FUEFHRaRkYXRhkKhsb2NhdGlvbrlodHRwczovL3d3dy5saW5pby5jb20ucGUvqHJlZmVycmVyt2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20vzRNjzgACVo7CArlTTzAyOUVMMUxJQTcxTFBFLTU0ODM2NzUxCQ%3D%3D*l7QtMTAyNjIyNDI4Nzg4NDc4NDM5M84AEi3nqDExMjU0NDg3AZCRzgGfLiKlNjg0NjE%3D&decisionId=l7QtMTAyNjIyNDI4Nzg4NDc4NDM5M84AEi3nqDExMjU0NDg3AZCRzgGfLiKlNjg0NjE%3D&variationId=27209250&variationName=H_R_5_G_P_Playstation",
+            "review_count": 1140,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.721021,
+                "longitude": -73.962177
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17189286603",
+            "display_phone": "(718) 928-6603",
+            "distance": 2507.7234041777074
+        },
+        {
+            "id": "dgaNriM1VdI2nGochhHE_g",
+            "alias": "Linio",
+            "name": "licuadora Oster",
+            "image_url": "https://i.linio.com/cms/c7df6468-d793-11ec-8cbc-ca91a9d18be5.webp",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/cm/hot-sale/peque-os-electros?skus=OS049HL0FZW6DLPE,OS049HL05L0FRLPE,OS049HL0WWLEGLPE,OS049HL0GK608LPE,OS049HL0H74WXLPE,IM013HL04ROMULPE,TA182HL0PF4RELPE,IM013HL11PV41LPE",
+            "review_count": 1356,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.743404338358,
+                "longitude": -73.954350367693
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+13474486040",
+            "display_phone": "(347) 448-6040",
+            "distance": 2148.468455903248
+        },
+        {
+            "id": "O0xFECgTDf1rbZzW9qUULQ",
+            "alias": "Huawei",
+            "name": "Tablet",
+            "image_url": "https://i.linio.com/cms/e05af5ac-d793-11ec-877e-ca91a9d18be5.webp",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/cm/hot-sale/tablets-y-kindles?skus=HU445EL0F0CV5LPE,LE060EL18V4BDLPE,XI061EL01GQSHLPE,AP032EL1LHLCLLPE,AM572EL06OY6VLPE,AM572ME0ASG6XLPE,AM572ME08O8OTLPE,AM572EL0JEJH9LPE",
+            "review_count": 1464,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.726086,
+                "longitude": -73.952308
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183893676",
+            "display_phone": "(718) 389-3676",
+            "distance": 1523.507688999993
+        },
+        {
+            "id": "MNNpsRXe7Wt5m3Jla9Wk0w",
+            "alias": "Moda",
+            "name": "Botas",
+            "image_url": "https://dynamic-yield.linio.com//api/scripts/8767678/images/HS_HD_APP_BOTINES.png",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/cm/hot-sale/botas-y-botines?skus=NO882FA0MYUB1LPE,NO882FA0H2NF1LPE,NO882FA1CCY3LLPE,NO882FA0ULZS9LPE,BA103FA1JTUVXLPE,BA103FA11YUQLLPE,BA103FA17X6SDLPE,BA103FA070BA5LPE",
+            "review_count": 990,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.7459065,
+                "longitude": -73.915103
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+13478134159",
+            "display_phone": "(347) 813-4159",
+            "distance": 2399.742070691387
+        },
+        {
+            "id": "l2ROlwwJcTPmi_2l3A9oyQ",
+            "alias": "Dercosmeticos",
+            "name": "Cosmetico",
+            "image_url": "https://dynamic-yield.linio.com//api/scripts/8767678/images/1.png",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/cm/beauty-fashion-week/dermocosmetica?skus=IS984HB0AE7EDLPE,SE859HB0HO3EPLPE,MA849HB0L7K7DLPE,IS984HB032HMTLPE,CE773HB0RK0Q3LPE,TH344HB0L7G7HLPE,SE859HB041PBHLPE,IS984HB176E85LPE",
+            "review_count": 359,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.724464173096,
+                "longitude": -73.949018043155
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183893757",
+            "display_phone": "(718) 389-3757",
+            "distance": 1347.0645336879616
+        },
+        {
+            "id": "u_3TLN0u6LyOL01vdjFOug",
+            "alias": "Cosmeticos",
+            "name": "Perfume",
+            "image_url": "https://dynamic-yield.linio.com//api/scripts/8767678/images/2.png",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/cm/hot-sale/belleza?skus=MI633HB0AW8GHLPE,MI633HB11BWHLLPE,CA853HB1H8SGULPE,MO928HB0MPVUFLPE,DA855HB0E9GYPLPE,CA854HB1B8KHJLPE,BV509HB05HYJWLPE,CA236HB18ZBYRLPE",
+            "review_count": 1640,
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7084397372605,
+                "longitude": -73.9407808520115
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17185992743",
+            "display_phone": "(718) 599-2743",
+            "distance": 2509.022568043543
+        },
+        {
+            "id": "a6SzfZ2F-uELmymusQVMBg",
+            "alias": "Licores",
+            "name": "Ron",
+            "image_url": "https://i.linio.com/cms/fd66e030-d792-11ec-9547-e2a2dcf1141a.webp",
+            "is_closed": false,
+            "url": "https://www.linio.com.pe/c/despensa-vinos-y-gourmet/vinos-y-licores?skus=TA918GR0C0RM4LPE,IN934GR0EA2IGLPE,PI454GR1ADNT6LPE,JA566GR1G38G6LPE,JA452GR13UN4OLPE,GR464GR1KY06HLPE,BO530GR1EZO4PLPE,PI454GR07WQ1QLPE",
+            "review_count": 625,
+            "categories": [
+                {
+                    "alias": "polish",
+                    "title": "Polish"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.729977,
+                "longitude": -73.955128
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183491744",
+            "display_phone": "(718) 349-1744",
+            "distance": 1677.1167411164342
+        },
+        {
+            "id": "Deportivos",
+            "alias": "jora-restaurant-and-bar-long-island-city",
+            "name": "Bicicleta",
+            "image_url": "https://i.linio.com/cms/5e4bb538-d793-11ec-8f7a-ca91a9d18be5.webp",
+            "is_closed": false,
+            "url": "https://www.cmrpuntos.pe/app/registry?utm_source=LINIO&utm_medium=TS_onsite&utm_campaign=welcome_pack&utm_content=welcome_pack",
+            "review_count": 799,
+            "categories": [
+                {
+                    "alias": "peruvian",
+                    "title": "Peruvian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7438054,
+                "longitude": -73.9515007
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "???",
+                "address2": "",
+                "address3": "",
+                "city": "???",
+                "zip_code": "???",
+                "country": "???",
+                "state": "???",
+                "display_address": [
+                    "???",
+                    "???"
+                ]
+            },
+            "phone": "+17183922033",
+            "display_phone": "(718) 392-2033",
+            "distance": 2007.323300389954
+        }
+    ]
+}
